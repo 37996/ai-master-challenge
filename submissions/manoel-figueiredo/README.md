@@ -3,9 +3,11 @@
 ## Sobre mim
 
 - **Nome:** Manoel Figueiredo
-- **LinkedIn:** adicionar link antes do envio
+- **LinkedIn:** https://www.linkedin.com/in/manoelfigueiredo/
 - **Challenge escolhido:** 003 — Lead Scorer
 - **Ambiente funcional:** https://g4.mftechsolutions.pt
+
+---
 
 ## Executive Summary
 
@@ -18,6 +20,8 @@ Em vez de tratar o desafio apenas como “qual oportunidade tem maior probabilid
 Dessa pergunta nasceu o **G4 FocusScore**, um sistema de priorização explicável integrado diretamente no CRM. O vendedor não recebe apenas um número: recebe prioridade visual, contexto, tags, sinais de risco e próxima ação recomendada.
 
 A solução processa o dataset completo de aproximadamente **8.800 oportunidades** e transforma os dados históricos num CRM utilizável. Numa segunda etapa, foi criado o módulo **WIN INTELLIGENCE**, para analisar resultados Won/Lost e testar estatisticamente se as premissas do scoring são suportadas pelos dados.
+
+---
 
 ## Solução
 
@@ -108,6 +112,8 @@ A análise atual encontra associações, não causalidade. Vendedor, manager, pr
 
 A estrutura de utilizadores do ambiente de demonstração também foi simplificada. Em vez de criar artificialmente os 35 utilizadores do dataset, foi criada uma estrutura representativa com RevOps, managers e vendedores regionais, preservando o vendedor histórico nos dados.
 
+---
+
 ## Process Log — Como usei IA
 
 O processo foi iterativo e não um fluxo “um prompt → uma resposta”.
@@ -163,6 +169,8 @@ O principal ciclo de construção foi:
 
 Process log completo em [process-log/PROCESS.md](./process-log/PROCESS.md).
 
+---
+
 ## Evidências
 
 Adicionar antes do PR final:
@@ -175,4 +183,6 @@ Adicionar antes do PR final:
 - [ ] screenshots ou export parcial da conversa com IA
 - [ ] opcional: vídeo curto demonstrativo
 
-_Submissão preparada em 23/09/2026._
+---
+
+_Submissão enviada em: 23/09/2026_
