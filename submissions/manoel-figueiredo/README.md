@@ -173,15 +173,29 @@ Process log completo em [process-log/PROCESS.md](./process-log/PROCESS.md).
 
 ## Evidências
 
-Adicionar antes do PR final:
+As evidências visuais da solução estão versionadas em [solution/screenshots](./solution/screenshots/).
 
-- [ ] screenshots do CRM
-- [ ] screenshot de uma oportunidade com FocusScore / prioridade / tags
-- [ ] screenshot de atividades recomendadas
-- [ ] screenshot dos workflows n8n
-- [ ] screenshot do resultado 8.800 / 4.238 Won / 2.473 Lost / 2.089 Open
-- [ ] screenshots ou export parcial da conversa com IA
-- [ ] opcional: vídeo curto demonstrativo
+### CRM operacional
+
+![Pipeline comercial no Odoo](./solution/screenshots/Screenshot%202026-09-24%20114551.png)
+
+### Workflows e automação
+
+![Workflow n8n — evidência 1](./solution/screenshots/Screenshot%202026-09-24%20114804.png)
+
+![Workflow n8n — evidência 2](./solution/screenshots/Screenshot%202026-09-24%20114913.png)
+
+![Workflow n8n — evidência 3](./solution/screenshots/Screenshot%202026-09-24%20120559.png)
+
+![Workflow n8n — evidência 4](./solution/screenshots/Screenshot%202026-09-24%20120828.png)
+
+![Workflow n8n — evidência 5](./solution/screenshots/Screenshot%202026-09-24%20121001.png)
+
+### Dados / resultado no CRM
+
+![Evidência adicional do ambiente funcional](./solution/screenshots/Screenshot%202026-09-24%20121101.png)
+
+> O repositório contém as imagens originais como evidência do ambiente funcional. O vídeo demonstrativo é opcional e pode ser acrescentado como link antes da revisão final.
 
 ---
 
